@@ -115,9 +115,6 @@ blockquote {
 /* Movblee Style */
 
 @media (max-width: 768px) {
-  .container {
-    overflow:hidden
-  }
   .time-display {
     margin-top: -135px;
     font-family: Mali;
@@ -146,4 +143,3 @@ blockquote {
     font-size: 25px;
   }
 }
-
