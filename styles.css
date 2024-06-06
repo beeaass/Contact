@@ -115,8 +115,8 @@ blockquote {
 /* Movblee Style */
 
 @media (max-width: 768px) {
-  body {
-    background-image: url('https://i.imgur.com/CJU82nh.gif')
+  .container {
+    overflow:hidden
   }
   .time-display {
     margin-top: -135px;
