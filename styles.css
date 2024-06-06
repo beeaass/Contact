@@ -115,12 +115,15 @@ blockquote {
 /* Movblee Style */
 
 @media (max-width: 768px) {
+  body {
+    background-image: url('https://i.imgur.com/CJU82nh.gif')
+  }
   .time-display {
     margin-top: -135px;
     font-family: Mali;
     top: 41%
   }
-
+  
   #time {
     font-size: 2.5rem;
   }
